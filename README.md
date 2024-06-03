@@ -14,7 +14,7 @@ Age: 47
 Species: Goat
 ```
 
-# Phyical Appearance
+# Physical Appearance
 
 ```
 Toriel has a pair of visible fangs and long eyelashes, and her irises have a dark red tint. She has an anthropomorphic and chubby body, with paws at the end of her limbs and large breasts and thighs. She wears a long purple robe with white sleeves and the Delta Rune on the chest.
